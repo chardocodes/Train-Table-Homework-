@@ -1,0 +1,10 @@
+.card-header {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(94, 150, 147);
+}
+.card {
+    margin-bottom: 35px;
+}
